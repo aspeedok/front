@@ -1,0 +1,140 @@
+ErrorDocument 403 /404.html
+ErrorDocument 404 /404.html
+
+DirectoryIndex page4981787.html
+
+RewriteEngine On
+
+RewriteCond %{REQUEST_FILENAME} /robots.txt
+RewriteCond "%{DOCUMENT_ROOT}/robots_%{HTTP_HOST}.txt" -f
+RewriteRule ^(.*)$ robots_%{HTTP_HOST}.txt [NC,L]
+RewriteRule ^sim$ page4454755.html [NC]
+RewriteRule ^sim/$ page4454755.html [NC]
+
+RewriteRule ^simulacrum$ page4536670.html [NC]
+RewriteRule ^simulacrum/$ page4536670.html [NC]
+
+RewriteRule ^golf$ page39299634.html [NC]
+RewriteRule ^golf/$ page39299634.html [NC]
+
+RewriteRule ^iceland17$ page2509688.html [NC]
+RewriteRule ^iceland17/$ page2509688.html [NC]
+
+RewriteRule ^viceversa$ page3826100.html [NC]
+RewriteRule ^viceversa/$ page3826100.html [NC]
+
+RewriteRule ^promo$ page4378440.html [NC]
+RewriteRule ^promo/$ page4378440.html [NC]
+
+RewriteRule ^jro$ page3041954.html [NC]
+RewriteRule ^jro/$ page3041954.html [NC]
+
+RewriteRule ^keeptalking$ page3036797.html [NC]
+RewriteRule ^keeptalking/$ page3036797.html [NC]
+
+RewriteRule ^melnikov$ page4043727.html [NC]
+RewriteRule ^melnikov/$ page4043727.html [NC]
+
+RewriteRule ^texts$ page4110743.html [NC]
+RewriteRule ^texts/$ page4110743.html [NC]
+
+RewriteRule ^beverages$ page3944115.html [NC]
+RewriteRule ^beverages/$ page3944115.html [NC]
+
+RewriteRule ^cars$ page4181596.html [NC]
+RewriteRule ^cars/$ page4181596.html [NC]
+
+RewriteRule ^bp$ page4528073.html [NC]
+RewriteRule ^bp/$ page4528073.html [NC]
+
+RewriteRule ^nikon$ page4696685.html [NC]
+RewriteRule ^nikon/$ page4696685.html [NC]
+
+RewriteRule ^rp$ page3847866.html [NC]
+RewriteRule ^rp/$ page3847866.html [NC]
+
+RewriteRule ^pb$ page5163087.html [NC]
+RewriteRule ^pb/$ page5163087.html [NC]
+
+RewriteRule ^ex$ page5855015.html [NC]
+RewriteRule ^ex/$ page5855015.html [NC]
+
+RewriteRule ^sgc$ page7547566.html [NC]
+RewriteRule ^sgc/$ page7547566.html [NC]
+
+RewriteRule ^yandex$ page10051850.html [NC]
+RewriteRule ^yandex/$ page10051850.html [NC]
+
+RewriteRule ^facetime$ page10714918.html [NC]
+RewriteRule ^facetime/$ page10714918.html [NC]
+
+RewriteRule ^4$ page10740429.html [NC]
+RewriteRule ^4/$ page10740429.html [NC]
+
+RewriteRule ^lockdownrus$ page10803890.html [NC]
+RewriteRule ^lockdownrus/$ page10803890.html [NC]
+
+RewriteRule ^lockdowneng$ page10864722.html [NC]
+RewriteRule ^lockdowneng/$ page10864722.html [NC]
+
+RewriteRule ^khb$ page11122893.html [NC]
+RewriteRule ^khb/$ page11122893.html [NC]
+
+RewriteRule ^kp$ page11135929.html [NC]
+RewriteRule ^kp/$ page11135929.html [NC]
+
+RewriteRule ^sgcphoto$ page11385007.html [NC]
+RewriteRule ^sgcphoto/$ page11385007.html [NC]
+
+RewriteRule ^singles$ page11574861.html [NC]
+RewriteRule ^singles/$ page11574861.html [NC]
+
+RewriteRule ^waf$ page12842744.html [NC]
+RewriteRule ^waf/$ page12842744.html [NC]
+
+RewriteRule ^riou$ page17471379.html [NC]
+RewriteRule ^riou/$ page17471379.html [NC]
+
+RewriteRule ^blank$ page19560514.html [NC]
+RewriteRule ^blank/$ page19560514.html [NC]
+
+RewriteRule ^robotics$ page23914580.html [NC]
+RewriteRule ^robotics/$ page23914580.html [NC]
+
+RewriteRule ^vshe$ page13017268.html [NC]
+RewriteRule ^vshe/$ page13017268.html [NC]
+
+RewriteRule ^lss$ page26597606.html [NC]
+RewriteRule ^lss/$ page26597606.html [NC]
+
+RewriteRule ^uz$ page31378720.html [NC]
+RewriteRule ^uz/$ page31378720.html [NC]
+
+RewriteRule ^hsedhvisual1$ page31618495.html [NC]
+RewriteRule ^hsedhvisual1/$ page31618495.html [NC]
+
+RewriteRule ^muybridge$ page32699776.html [NC]
+RewriteRule ^muybridge/$ page32699776.html [NC]
+
+RewriteRule ^plato$ page35921456.html [NC]
+RewriteRule ^plato/$ page35921456.html [NC]
+
+RewriteRule ^msu$ page36424356.html [NC]
+RewriteRule ^msu/$ page36424356.html [NC]
+
+RewriteRule ^hsedrhw2$ page36583907.html [NC]
+RewriteRule ^hsedrhw2/$ page36583907.html [NC]
+
+RewriteRule ^dwarfs$ page39976266.html [NC]
+RewriteRule ^dwarfs/$ page39976266.html [NC]
+
+RewriteRule ^sgc24$ page40547990.html [NC]
+RewriteRule ^sgc24/$ page40547990.html [NC]
+
+RewriteRule ^hsetest$ page42250606.html [NC]
+RewriteRule ^hsetest/$ page42250606.html [NC]
+
+RewriteRule ^ngs$ page43083673.html [NC]
+RewriteRule ^ngs/$ page43083673.html [NC]
+
+
